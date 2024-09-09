@@ -165,7 +165,7 @@ $ python main.py
 RUNNER
 ▶ V 1.0 
 
-Run the Program<Yello text>
+Run the Program<Yellow text>
 Your Command:python main.py
 
 Hello World
