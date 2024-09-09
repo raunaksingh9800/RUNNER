@@ -146,17 +146,17 @@ root/
 
 #### main.py
 ```python
-print("Hello World)
+print("Hello World")
 ```
 #### commands.txt
-```python
+```
 -> Run the Program
 > run
 $ python main.py
 ```
 
 #### Your input in Terminal / Console
-```python
+```
 ➜ runner run
 ```
 
