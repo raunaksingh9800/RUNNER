@@ -1,0 +1,20 @@
+-> Build the project
+> build
+$ g++ main.cpp -o ./build/runner
+
+-> run the project
+> run
+$ ./build/runner 
+
+-> clear the terminal
+> cls
+$ clear
+
+-> push to prod
+> push
+$ sudo cp ./build/runner ./build/bin
+
+-> run test
+> test
+$ g++ test.cpp -o test && ./test 
+

@@ -1,0 +1,17 @@
+->${
+    string main(string main) {
+        return main;
+    }
+
+    int cal(int main) {
+        return 
+    }
+}
+
+
+
+$ g++ main.cpp -o ~${main} && ./~${cal} 
+
+
+
+
