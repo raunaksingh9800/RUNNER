@@ -1,6 +1,6 @@
 -> Build the project
 > build
-$ g++ main.cpp -o ./build/runner
+$ g++ -std=c++11 main.cpp ./global_data/*.cpp ./__B2/*.cpp ./__file_handler/*.cpp ./__sys/*.cpp -o ./build/main
 
 -> run the project
 > run
@@ -18,3 +18,7 @@ $ sudo cp ./build/runner ./build/bin
 > test
 $ g++ test.cpp -o test && ./test 
 
+
+-> print luther name
+> p
+$ echo luther
