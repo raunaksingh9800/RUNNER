@@ -17,14 +17,14 @@ git clone https://github.com/raunaksingh9800/RUNNER.git
 ```
 #### macOS / Linux 🍏🐧
 ```bash
-    g++ -std=c++11 main.cpp ./global_data/*.cpp ./__B2/*.cpp ./__file_handler/*.cpp ./__sys/*.cpp -o ./build/main
+    g++ -std=c++11 main.cpp ./global_data/*.cpp ./__B2/*.cpp ./__file_handler/*.cpp ./__sys/*.cpp -o ./build/runner
 ```
 
 #### Windows 🖥️
 -  Install MinGW or MSYS2
 - Once installed, open the Command Prompt or MSYS2 Shell and navigate to the directory where your C++ file is located.
 ``` bash
-    g++ -std=c++11 main.cpp ./global_data/*.cpp ./__B2/*.cpp ./__file_handler/*.cpp ./__sys/*.cpp -o ./build/main
+    g++ -std=c++11 main.cpp ./global_data/*.cpp ./__B2/*.cpp ./__file_handler/*.cpp ./__sys/*.cpp -o ./build/runner
 ```
 
 - Using Microsoft Visual Studio
