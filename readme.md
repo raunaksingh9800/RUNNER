@@ -24,7 +24,7 @@ g++ -std=c++11 main.cpp ./global_data/*.cpp ./__B2/*.cpp ./__file_handler/*.cpp 
 -  Install MinGW or MSYS2
 - Once installed, open the Command Prompt or MSYS2 Shell and navigate to the directory where your C++ file is located.
 ``` bash
-g++ -std=c++11 main.cpp ./global_data/*.cpp ./__B2/*.cpp ./__file_handler/*.cpp ./__sys/*.cpp -o ./build/runner
+g++ -std=c++11 main.cpp ./global_data/*.cpp ./__B2/*.cpp ./__file_handler/*.cpp ./__sys/*.cpp -o ./build/runner.exe
 ```
 
 - Using Microsoft Visual Studio
@@ -36,12 +36,12 @@ cl /EHsc main.cpp
 MacOs / Linux 🍏🐧
  
 ```bash
-./build/main
+./build/runner
 ```
 Windows  🖥️
 
 ```bash
-./build/main.exe
+./build/runner.exe
 ```
 
 ## Syntax 💡
