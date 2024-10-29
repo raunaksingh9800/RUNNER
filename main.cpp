@@ -4,15 +4,21 @@
 
 #include "__sys/sys_call.h"
 
-/**
- * 
- * WARNING - NO ELSE CASE FOR COMMAND NOT FOUND
- * 
+
+
+/*
+*
+*   Author : Raunak Singh 
+*   Github : https://github.com/raunaksingh9800
+*   Date 📅: 30 Oct 2024
+*        
+*   @version 1.1
+*
+*   File Use : Gateway to RUNNER
+*
 */
 
-
 using namespace std;
-
 
 int getOScode(){
     #ifdef _WIN32
@@ -31,9 +37,6 @@ int getOScode(){
     return 5;
     #endif
 }  
-
-
-
 
 int main(int argc, char *arg[]) {   
     
