@@ -4,6 +4,12 @@
 ![App Screenshot](https://github.com/raunaksingh9800/RUNNER/blob/main/IMG/runner-github.png?raw=true)
 
 
+
+
+
+![App Screenshot](https://github.com/raunaksingh9800/RUNNER/blob/main/IMG/runner-github.png?raw=true)
+
+
 # RUNNER
 
 Developed a C++ command-line tool that compiles and runs system commands from a `commands.txt` file 📄, handling command parsing, file I/O, and system calls with error handling 🚨. Integrated features for command listing 📝, initialization ⚙️, and efficient data processing using maps and vectors 🔄.
